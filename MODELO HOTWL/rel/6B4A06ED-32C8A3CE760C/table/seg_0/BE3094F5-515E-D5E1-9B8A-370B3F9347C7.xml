@@ -1,0 +1,39 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BE3094F5-515E-D5E1-9B8A-370B3F9347C7" name="Acomodação">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:53:32 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<ordsAlias>table_6</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Quarto_Simples" id="85EC8187-17E3-C71B-18D0-07E40E022CF6">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:54:03 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Quarto_Duplo" id="0BEAB744-D5B4-0FF3-F28E-BB30EA861E5E">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:54:03 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Quarto_Triplo" id="B1024DF6-DD74-A13B-489C-3D3C8D909874">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:54:03 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<MultidimensionalDesign class="oracle.dbtools.crest.model.design.multidimensional.MultidimensionalDesign" name="Multidimensional_1" id="AA00CE65-3A1D-3FA9-D976-EF67950E9A10" mainViewID="7C2D64A6-C01E-B9AC-5203-CF9E5425F97E" boundModel="36BD0272-1079-3F61-548F-E6C6803439F1">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:46:57 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</MultidimensionalDesign>

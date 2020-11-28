@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="36BD0272-1079-3F61-548F-E6C6803439F1" mainViewID="A5B3BA89-E7CF-4661-E8AC-34112B0E6998">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:46:33 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

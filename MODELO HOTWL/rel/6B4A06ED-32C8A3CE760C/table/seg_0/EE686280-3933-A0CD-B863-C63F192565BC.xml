@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="EE686280-3933-A0CD-B863-C63F192565BC" name="CLIENTE">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:47:19 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<ordsAlias>table_1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="#Nome: string" id="8503394E-41E7-B218-3F01-89AD500F4EF0">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:24 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Endereço: string" id="29B10C81-158D-356D-3070-2B24DC0DF61E">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:51 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Telefone: int" id="963E5FA7-271E-74F8-568D-EF489B0EC739">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:51 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Bairro:string" id="98747546-7DDE-9050-AA49-0780D5FC9221">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:51 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Cidade: string" id="AFB786E6-3E45-4822-F199-3F88AEB8D68A">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:51 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="data: date" id="E97F6564-7E79-6321-45E7-5F7EBA0EC86D">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:51 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Rg: string" id="39A4424C-042D-9E99-7F01-504DE8F86A04">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:48:51 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

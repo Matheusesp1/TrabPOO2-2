@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="Table" objectID="BE3094F5-515E-D5E1-9B8A-370B3F9347C7" name="Acomodação" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="6B4A06ED-A8C4-DF40-59D7-32C8A3CE760C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="EE686280-3933-A0CD-B863-C63F192565BC" name="CLIENTE" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="6B4A06ED-A8C4-DF40-59D7-32C8A3CE760C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="5A9D6AA2-BC4F-AB63-8C55-160F9D1A950A" name="Despesa" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="6B4A06ED-A8C4-DF40-59D7-32C8A3CE760C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="D8FAEC7F-6DBB-764D-FB81-3A84A4B9C2FA" name="Pagamento" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="6B4A06ED-A8C4-DF40-59D7-32C8A3CE760C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="4E1B9CBD-C390-36DC-0AC4-2EF3C71A3179" name="Quarto" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="6B4A06ED-A8C4-DF40-59D7-32C8A3CE760C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="8E32971F-82D3-C08D-721D-E0A9F1FC4416" name="Reserva" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="6B4A06ED-A8C4-DF40-59D7-32C8A3CE760C" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>

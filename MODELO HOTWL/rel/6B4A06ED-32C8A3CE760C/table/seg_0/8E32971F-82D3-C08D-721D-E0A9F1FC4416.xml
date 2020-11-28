@@ -1,0 +1,57 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="8E32971F-82D3-C08D-721D-E0A9F1FC4416" name="Reserva">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:50:31 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<ordsAlias>table_2</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Status_pagamentos; pagamento" id="8245DBD7-E030-2147-2BA9-C78FF9C9867E">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:51:23 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_Entrada: date" id="7DBA4DF3-3FFB-5FB0-0689-00E1C51C7873">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:51:23 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_Saida: date" id="E2242E4F-9834-183E-529F-C92A2E5B90F4">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:51:23 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Cliente: cliente" id="462BCE64-187D-0F5C-010C-B9694F64DBE9">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:51:23 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Tipo_Acomodaçao: string" id="50FE4AC2-3216-2A9B-D555-AEFF886C67E0">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:51:23 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

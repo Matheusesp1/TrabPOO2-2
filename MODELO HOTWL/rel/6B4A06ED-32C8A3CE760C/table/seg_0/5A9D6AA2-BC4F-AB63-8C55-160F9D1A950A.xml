@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="5A9D6AA2-BC4F-AB63-8C55-160F9D1A950A" name="Despesa">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:57:24 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<ordsAlias>table_8</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Preço:double" id="5B4C7191-A1D0-4840-3FD3-E0B17C28D5BC">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:57:49 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Tipo_despesa: string" id="4C6FC2D1-B5E4-42FB-9C0F-836FCE719011">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:57:49 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

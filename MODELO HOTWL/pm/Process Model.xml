@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="50C6ACB7-513D-6124-CDFF-EB74984CBA04">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:46:34 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

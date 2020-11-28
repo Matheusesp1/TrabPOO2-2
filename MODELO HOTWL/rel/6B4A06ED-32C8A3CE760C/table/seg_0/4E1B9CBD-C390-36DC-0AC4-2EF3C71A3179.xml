@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4E1B9CBD-C390-36DC-0AC4-2EF3C71A3179" name="Quarto">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:55:02 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<ordsAlias>table_7</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Despensa_Quarto : int" id="115EFE5C-3CDA-B9FF-0A42-F1E5B860485F">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:55:42 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Despesa: despesa" id="EF2DA32F-07E6-5BCD-6C30-9F6C26DCCEBA">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:55:42 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="9370022E-92BC-2F97-9E8F-FB40716B1FEE">
+<createdBy>mathe</createdBy>
+<createdTime>2020-11-28 22:46:34 UTC</createdTime>
+<ownerDesignName>MODELO HOTWL</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>
